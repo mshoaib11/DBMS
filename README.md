@@ -1,6 +1,6 @@
 #DBMS
 Main Memory DBMS was our project of the core course Database Systems at Saarland University to deepen the understanding about the internals of databases. For each milestone, skeleton containing some interfaces were provided that had to be implemented, together with detailed information on the tasks to accomplish and a set of functional and performance tests.
-###TOLS AND PROJECT SETUP
+###TOOLS AND PROJECT SETUP
 You need the following tools for the project: <br />
 • Oracle Java SE Development Kit (JDK), Version 7 or higher <br />
 • Maven: http://maven.apache.org <br />
