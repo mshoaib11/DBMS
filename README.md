@@ -13,7 +13,7 @@ The project can be built using Maven, with the command mvn compile. Maven can al
 For the first milestone, we had to implement the storage layer of our database. We were provided with the interfaces that were to be implemented and against which there were tests tests (for Task 1, most of the interfaces needed are located in the storage package). The resources contained in the following packages (located under src/main/java/dbs_project/) are relevant for Task 1:
 • exceptions: exception definitions. <br />
 • database: the interface Database is the starting point for tests. The implementation constructs and connects the different layers from all tasks in the end. For the first task, we only have to implement the getStorageLayer() method. <br />
-• storage: this package contains the main interfaces to be implemented. Here we have the following classes and interfaces:
+• storage: this package contains the main interfaces to be implemented. Here we have the following classes and interfaces: <br />
 – StorageLayer: represents the storage layer of our database. We had to provide our own implementation of this interface, for example in storage/impl in a class called StorageLayerImpl. <br />
 – Table: represents a relational table in our database. <br />
 – Column: represents a column in a relational table (which is one possible view of the data in a table). <br />
