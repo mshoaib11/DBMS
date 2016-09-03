@@ -1,14 +1,14 @@
 #DBMS
 Main Memory DBMS was our project of the core course Database Systems at Saarland University to deepen the understanding about the internals of databases. For each milestone, skeleton containing some interfaces were provided that had to be implemented, together with detailed information on the tasks to accomplish and a set of functional and performance tests.
 ##Tools and Project Setup
-You need the following tools for the project:
-• Oracle Java SE Development Kit (JDK), Version 7 or higher
-• Maven: http://maven.apache.org
-One of the following IDEs:
-• Netbeans: http://www.netbeans.org/ (out of the box Git and Maven support)
-• Intellij Idea CE: http://www.jetbrains.com/idea/download/
-• Eclipse: http://www.eclipse.org/ (plugins for Git and Maven available)
-The project can be built using Maven, with the command mvn compile. Maven can also create a project suitable for Eclipse with the command: mvn eclipse:eclipse. For more details see the documentation on Maven.
+You need the following tools for the project: <br />
+• Oracle Java SE Development Kit (JDK), Version 7 or higher <br />
+• Maven: http://maven.apache.org <br />
+One of the following IDEs: <br />
+• Netbeans: http://www.netbeans.org/ (out of the box Git and Maven support) <br />
+• Intellij Idea CE: http://www.jetbrains.com/idea/download/ <br />
+• Eclipse: http://www.eclipse.org/ (plugins for Git and Maven available) <br />
+The project can be built using Maven, with the command mvn compile. Maven can also create a project suitable for Eclipse with the command: mvn eclipse:eclipse. For more details see the documentation on Maven. <br />
 ##TASK 1: IMPLEMENTATION OF STORAGE LAYER
 For the first milestone, we had to implement the storage layer of our database. We were provided with the interfaces that were to be implemented and against which there were tests tests (for Task 1, most of the interfaces needed are located in the storage package). The resources contained in the following packages (located under src/main/java/dbs_project/) are relevant for Task 1:
 • exceptions: exception definitions.
