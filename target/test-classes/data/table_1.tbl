@@ -1,0 +1,12 @@
+colInteger::INTEGER|colBoolean::BOOLEAN|colString::STRING|colDouble::DOUBLE|colDate::DATE
+123|true|this|3.565|2011-03-03
+34|false|is|453.343|2011-05-01
+1|true|a|1.56445|2001-07-01
+2|false|<NULL>|0.0|1988-12-04
+523|true|test|345.3453|2011-05-04
+623|false|column|1345.534|<NULL>
+72543|true|for|Infinity|1983-04-01
+723|true|strings|-Infinity|1983-04-01
+0|false||0.0|1983-04-01
+2147483647|true|it|1.7976931348623157E308|1983-04-01
+-2147483648|false|works|4.9E-324|1983-04-01

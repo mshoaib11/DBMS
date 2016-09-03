@@ -1,0 +1,8 @@
+id::INTEGER|first_name::STRING|last_name::STRING|birthday::DATE|weight::DOUBLE|height::DOUBLE
+1|Paul|Smith|1978-06-11|79.5|1.83
+2|Mike|Newman|1965-10-07|69.7|1.71
+3|Bill|Jones|1989-12-01|68.3|1.62
+4|Harry|Bell|1954-01-04|73.7|1.85
+5|Sarah|Michaels|1956-03-10|107.5|2.05
+6|Julia|Webbs|1972-09-04|70.5|1.79
+7|Andrea|Gates|1985-11-05|72.4|1.73
